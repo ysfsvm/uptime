@@ -1,20 +1,20 @@
 [
   {
-    "name": "ysfapi",
+    "name": "API",
     "url": "https://ysfapi.glitch.me/track",
     "icon": "https://icons.duckduckgo.com/ip3/ysfapi.glitch.me.ico",
-    "slug": "ysfapi",
+    "slug": "api",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 307,
-    "timeWeek": 307,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   }
 ]

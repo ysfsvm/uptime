@@ -4,19 +4,19 @@
     "url": "https://ysfapi.glitch.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/ysfapi.glitch.me.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1394,
-    "timeDay": 204,
-    "timeWeek": 1394,
-    "timeMonth": 1394,
-    "timeYear": 1394,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 2473,
+    "timeDay": 3478,
+    "timeWeek": 2473,
+    "timeMonth": 2473,
+    "timeYear": 2473,
     "dailyMinutesDown": {
-      "2023-04-10": 0
+      "2023-04-10": 56
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://ysfapi-dummy.glitch.me/
-status: down
-code: 503
-responseTime: 3695
-lastUpdated: 2023-11-26T20:22:32.333Z
+status: up
+code: 200
+responseTime: 12039
+lastUpdated: 2023-11-26T21:15:54.241Z
 startTime: 2023-04-06T11:46:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>

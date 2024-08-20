@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ysfapi-dummy.glitch.me.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "73.05%",
+    "uptime": "73.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.43%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "73.64%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "73.91%",
     "time": 4763,
-    "timeDay": 14239,
-    "timeWeek": 11287,
-    "timeMonth": 9298,
-    "timeYear": 5663,
+    "timeDay": 312,
+    "timeWeek": 10144,
+    "timeMonth": 8639,
+    "timeYear": 5664,
     "dailyMinutesDown": {
       "2024-08-13": 260,
       "2024-08-05": 40,
@@ -124,8 +124,7 @@
       "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
-      "2023-08-22": 1440,
-      "2023-08-21": 1440
+      "2023-08-22": 1440
     }
   }
 ]

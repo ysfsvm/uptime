@@ -4,7 +4,7 @@
     "url": "https://ysfapi-dummy.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/ysfapi-dummy.glitch.me.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "81.47%",
     "uptimeDay": "97.66%",
     "uptimeWeek": "99.28%",
@@ -16,6 +16,7 @@
     "timeMonth": 3939,
     "timeYear": 7676,
     "dailyMinutesDown": {
+      "2025-04-05": 0,
       "2025-04-04": 34,
       "2025-04-03": 39,
       "2025-03-08": 30,
